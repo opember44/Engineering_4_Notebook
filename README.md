@@ -19,3 +19,6 @@ In this assigment I created a calculator that asks the user to enter two numbers
 ![Quadratic Solver](images/quadratic_solver.png)
 ### Reflection
 In this assignment we had to create a program that could solve quadratic equations and find their real roots or say no real roots. It asks the user to enter three variables then it solves the equations and finds the roots. This assigment was similar to the previous one but more challeneging. At first I didn't understand what it mean when it said "an array of the two roots" so i was confused on what the assigment meant. Wikipedia told me that "In computer science, an array data structure, or simply an array, is a data structure consisting of a collection of elements, each identified by at least one array index or key."
+## Python Program 03 - Strings and Loops
+![Strings and Loops](images/strings_and_loops.png)
+### Reflection
