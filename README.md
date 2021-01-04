@@ -26,4 +26,4 @@ In this assignment i created a program which has the user type a sentence then i
 ## Python Challenge - MSP
 ![MSP](images/msp.png)
 ### Reflection
-
+In this assignment we created the game Man Sized Piñata, more commonly know as Hangman. The game requires two players, one to type in a word to be guessed and the other to guess the word letter by letter, if they guess incorrectly 9 times the game is over and the guesser loses, if they guess the word correctly before 9 incoreect guesses they win. This was a hard assigment becasue it is so long. The code splits the program into multpiple arrays, one that stores letters, one thats stores blanks for each letter, and one that uses runnum to store the guessed letters. An issue I ran into was that when I guessed a letter corectly instead of deleting the blank space it just put the coreectly guessed letter next to it. To fix this I added blanks[x] = guess, this deleted the 3 undercores that represented the blank and put in the letter guessed.
