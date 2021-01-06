@@ -29,7 +29,7 @@ In this assignment i created a program which has the user type a sentence then i
 In this assignment we created the game Man Sized Piñata, more commonly know as Hangman. The game requires two players, one to type in a word to be guessed and the other to guess the word letter by letter, if they guess incorrectly 9 times the game is over and the guesser loses, if they guess the word correctly before 9 incoreect guesses they win. This was a hard assigment becasue it is so long. The code splits the program into multpiple arrays, one that stores letters, one thats stores blanks for each letter, and one that uses runnum to store the guessed letters. An issue I ran into was that when I guessed a letter corectly instead of deleting the blank space it just put the coreectly guessed letter next to it. To fix this I added blanks[x] = guess, this deleted the 3 undercores that represented the blank and put in the letter guessed.
 # Bash
 ## GPIO Pins - Bash
-![bash2](images/bash2.png)
-![bash1](images/bash1.png)
+![bash1](images/bashwiring.png)
+![bash2](images/bash.png)
 ### Reflection
 In this assigment we had to wire up two leds and code it so that the two LEDs alternated and blinked on and off ten times. This was the first time we actually had to wire something up for an assigment which was fun. My biggest problem with the wiring was that i forogt which leg of the leds went to ground. My biggest problem with the code was that I kept getting the error "Invalid Syntax" for my line which said gpio mode 0 out. This was confusing becasue I know had the line typed correctly but it turned out i was still typing python3 to run the code when i should hae been typing bash.
