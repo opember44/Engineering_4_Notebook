@@ -33,3 +33,8 @@ In this assignment we created the game Man Sized Piñata, more commonly know as 
 ![bash2](images/bash.png)
 ### Reflection
 In this assigment we had to wire up two leds and code it so that the two LEDs alternated and blinked on and off ten times. This was the first time we actually had to wire something up for an assigment which was fun. My biggest problem with the wiring was that i forogt which leg of the leds went to ground. My biggest problem with the code was that I kept getting the error "Invalid Syntax" for my line which said gpio mode 0 out. This was confusing becasue I know had the line typed correctly but it turned out i was still typing python3 to run the code when i should hae been typing bash.
+## GPIO Pins - Python
+![bash1](images/bashwiring.png)
+![bash2](images/bash.png)
+### Reflection
+In this assignment we had to do the same as in the last, wire up two leds and code it so that the two LEDs alternated and blinked on and off ten times, but using python not bash. The wiring was exactly the same as the assigment that used bash which made it slightly easier to do. A big differnece in the code was that you use OUTPUT and HIGH and LOW to turn the LEDS on and off in this assigment, this made alot more sense to me becasue this is how we have done it in previous years so I found this code easier that the last where we had to use gpio write.
