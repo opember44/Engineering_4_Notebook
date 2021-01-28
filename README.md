@@ -39,6 +39,6 @@ In this assigment we had to wire up two leds and code it so that the two LEDs al
 ### Reflection
 In this assignment we had to do the same as in the last, wire up two leds and code it so that the two LEDs alternated and blinked on and off ten times, but using python not bash. The wiring was exactly the same as the assigment that used bash which made it slightly easier to do. A big differnece in the code was that you use OUTPUT and HIGH and LOW to turn the LEDS on and off in this assigment, this made alot more sense to me becasue this is how we have done it in previous years so I found this code easier that the last where we had to use gpio write.
 ## GPIO Pins - SSH
-![](images/.png)
+![ssh](images/ssh.png)
 ### Reflection
 This assignment was confsing becasue I had alot of toruble getting the secure shell app to work. I couldn't figure out my IP adress, I thought it wanted the IP adress of my computer, then I realized you had to get the IP adress off your Pi. My next big problem was that I couldn't get the pasword to work, I was using the password I was supposed to be using but it still wasn't working. It turned out I had made my username "Pi" when it should have been "pi", once i fixed this everything worked. I used the same code as I did in the previous assignemnt and the wiring was very similar. The only difference in the wiring was that I had to use the LiPo Battery for power instead of the computer.
