@@ -46,3 +46,7 @@ This assignment was confsing becasue I had alot of toruble getting the secure sh
 ![gpio_i2c](images/gpio_i2c.png)
 ### Reflection
 This assigment was difficult to get set uo but once everything in SSH had been set up it was relatively easy. I had trouble setting up all the I2C things in SSH but after i figured out how to do those things it went smoothly. The wiring was relatively easy becasue the LSM303 and the SSD1306 OLED are pretty self expalantory on where wires go. The code wasn't too hard becasue I used websites that other classmates had suggested I use to help me with it.
+## Hello Flask
+![](images/.png)
+### Reflection
+This assigment was pretty easy all we had to do was make it so that if you seach our IP adress it says hello_world, the only problem I ran into was that I made hello_world a file not a directory but after I fixed that everything went well. 
