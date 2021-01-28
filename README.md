@@ -42,3 +42,7 @@ In this assignment we had to do the same as in the last, wire up two leds and co
 ![ssh](images/ssh.png)
 ### Reflection
 This assignment was confsing becasue I had alot of toruble getting the secure shell app to work. I couldn't figure out my IP adress, I thought it wanted the IP adress of my computer, then I realized you had to get the IP adress off your Pi. My next big problem was that I couldn't get the pasword to work, I was using the password I was supposed to be using but it still wasn't working. It turned out I had made my username "Pi" when it should have been "pi", once i fixed this everything worked. I used the same code as I did in the previous assignemnt and the wiring was very similar. The only difference in the wiring was that I had to use the LiPo Battery for power instead of the computer.
+## GPIO Pins - I2C
+![gpio_i2c](images/gpio_i2c.png)
+### Reflection
+This assigment was difficult to get set uo but once everything in SSH had been set up it was relatively easy. I had trouble setting up all the I2C things in SSH but after i figured out how to do those things it went smoothly. The wiring was relatively easy becasue the LSM303 and the SSD1306 OLED are pretty self expalantory on where wires go. The code wasn't too hard becasue I used websites that other classmates had suggested I use to help me with it.
