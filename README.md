@@ -50,3 +50,9 @@ This assigment was difficult to get set uo but once everything in SSH had been s
 ![app](images/app.png)
 ### Reflection
 This assigment was pretty easy all we had to do was make it so that if you seach our IP adress it says hello_world, the only problem I ran into was that I made hello_world a file not a directory but after I fixed that everything went well. 
+## Headless
+![headless3](images/headless3.png)
+![headless2](images/headless2.png)
+![headless1](images/headless1.png)
+### Reflection
+In this assigment we had to have our battery-powered pi graphically display acceleration data while we walked around the house. The wiring was the same as the last few assignments but the code was more dificult. I am also pretty sure my LiPo battery died half way through the assigment, everything was working and then it randomly turned off so I am assuing it is dead althought that means it would have died pretty quickly.(For some reason my phone is bad at taking pictures of the screen so it looks like part of the screen is black but there are no random black spaces on the screen in real life)
